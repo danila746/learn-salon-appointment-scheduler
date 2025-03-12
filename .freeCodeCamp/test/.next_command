@@ -67,3 +67,5 @@ chmod +x salon.sh
 git add .
 git commit -m "another chall-ge done"
 git push origin
+pg_dump -cC --inserts -U freecodecamp salon > salon.sql
+git add .
