@@ -64,3 +64,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 touch salon.sh
 chmod +x salon.sh
 ./salon.sh
+git add .
